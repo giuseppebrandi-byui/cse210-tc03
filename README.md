@@ -1,1 +1,1 @@
-# cse210-tc03My name is Giuseppe and I am studying to become a Software Developer.
+My name is Giuseppe and I am studying to become a Software Developer.
